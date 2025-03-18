@@ -6,8 +6,8 @@ Also I work on Raspberry PI, PCB design, etc.
 <br />
 Here are the skills I'm specialized in the most:
 
-- PHP, Laravel, Codeigniter
 - React-Native,React, Redux, Saga, Thunk, Axios, MaterialUI, Reactstrap, Next.JS,Zustand
+- PHP, Laravel, Codeigniter
 - TailwindCSS, animate.css, video.js, Bootstrap, jQuery, HTML5, CSS3/SCSS/LESS
 - Vue, Vuex, Pinia, Vue-router, Vuetify, Nuxt
 - Angular, Material, NgRX, RxJS, Angular CLI
